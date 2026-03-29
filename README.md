@@ -24,7 +24,8 @@ Power BI	Data visualization and dashboard creation
  
  Project Structure
 
-sales-report-analysis/
+sales-report-analysis/  
+
 ├── database/
 │ ├── schema.sql
 │ ├── tables.sql
