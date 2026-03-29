@@ -1,4 +1,5 @@
 Sales Report Analysis
+
 A data analytics project that analyzes sales data to identify key trends, track product performance, understand customer behavior, and provide actionable business insights using MySQL, Excel, and Power BI.
 
 Power BIMySQLExcelLicense
