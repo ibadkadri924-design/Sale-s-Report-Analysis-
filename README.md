@@ -20,7 +20,9 @@ MySQL Community Server	Database creation and data storage
 MySQL Workbench	Query execution and database management
 Microsoft Excel	Data import, export, and formatting
 Power BI	Data visualization and dashboard creation
-Project Structure
+ 
+ 
+ Project Structure
 sales-report-analysis/
 ├── database/
 │ ├── schema.sql
